@@ -19,9 +19,9 @@
 
 <table>
 <tr>
-<td><img src="./assets/images/EmptyPage.png" width="100"/></td>
-<td><img src="./assets/images/CreatePage.png" width="100"></td>
-<td><img src="./assets/images/HomePage.png" width="100"></td>
+<td><img src="./assets/images/EmptyPage.png" width="500"/></td>
+<td><img src="./assets/images/CreatePage.png" width="500"></td>
+<td><img src="./assets/images/HomePage.png" width="500"></td>
 </tr>
 </table>
 
