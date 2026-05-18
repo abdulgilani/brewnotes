@@ -2,21 +2,21 @@
 
 ## Table of Contents
 
-- [BrewNotes](#brewnotes)
-  - [Table of Contents](#table-of-contents)
-  - [Acessing Online](#acessing-online)
-  - [About the Project](#about-the-project)
-  - [Tech Stacks](#tech-stacks)
-  - [Setup](#setup)
-    - [Prequisites](#prequisites)
-    - [Installation](#installation)
-  - [Repository Structures](#repository-structures)
+<!-- prettier-ignore-start -->
+- [Demo](#demo)<br>
+- [About the Project](#about-the-project)<br>
+- [Tech Stacks](#tech-stacks)<br>
+- [Setup](#setup)<br>
+  - [Prequisites](#prequisites)<br>
+  - [Installation](#installation)<br>
+- [Repository Structures](#repository-structures)<br>
 
 ---
+<!-- prettier-ignore-end -->
 
-## Acessing Online
+## Demo
 
-Both the frontend and backend component has been deployed using Render. You can access the app [here](https://catalog-app-r0on.onrender.com/).
+You can access the app [here](https://catalog-app-r0on.onrender.com/).
 
 ---
 
