@@ -3,26 +3,35 @@
 ## Table of Contents
 
 <!-- prettier-ignore-start -->
-- [Demo](#demo)<br>
+
 - [About the Project](#about-the-project)<br>
+- [Demo](#demo)<br>
 - [Tech Stacks](#tech-stacks)<br>
 - [Setup](#setup)<br>
   - [Prequisites](#prequisites)<br>
   - [Installation](#installation)<br>
 - [Repository Structures](#repository-structures)<br>
-
----
 <!-- prettier-ignore-end -->
-
-## Demo
-
-You can access the app [here](https://catalog-app-r0on.onrender.com/).
 
 ---
 
 ## About the Project
 
-BrewNotes is a coffee-themed note taking app created with MERN stack. The idea came from developers loving coffee and spending time working at cafes. The app is meant to feel like being in a cafe while taking notes.
+<table>
+<tr>
+<td><img src="./assets/images/EmptyPage.png" width="100"/></td>
+<td><img src="./assets/images/CreatePage.png" width="100"></td>
+<td><img src="./assets/images/HomePage.png" width="100"></td>
+</tr>
+</table>
+
+BrewNotes is a coffee-themed note taking app created with MERN stack. The idea came from developers loving coffee and spending time working at cafes. The app is meant to feel like being in a cafe while taking notes. The app is also responsive on mobile and tablet as well.
+
+---
+
+## Demo
+
+You can access the app [here](https://catalog-app-r0on.onrender.com/).
 
 ---
 
