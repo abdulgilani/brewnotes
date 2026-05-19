@@ -17,7 +17,11 @@
 
 ## About the Project
 
-![BrewNotes](./assets/image/HomePage.png)
+<picture>
+  <source media="(min-width: 1280px)" srcset="./assets/image/DesktopPage.png" />
+  <source media="(min-width: 768px)" srcset="./assets/image/TabletPage.png" />
+  <img alt="Home Page" src="./assets/image/MobilePage.png" />
+</picture>
 
 BrewNotes is a coffee-themed note taking app created with MERN stack. The idea came from developers loving coffee and spending time working at cafes. The app is meant to feel like being in a cafe while taking notes. The app is also responsive on mobile and tablet as well.
 
